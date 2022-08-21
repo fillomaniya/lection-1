@@ -1,0 +1,15 @@
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/bin/Debug/net6.0/example 1 hello console
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/bin/Debug/net6.0/example 1 hello console.deps.json
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/bin/Debug/net6.0/example 1 hello console.runtimeconfig.json
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/bin/Debug/net6.0/example 1 hello console.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/bin/Debug/net6.0/example 1 hello console.pdb
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.csproj.AssemblyReference.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.AssemblyInfoInputs.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.AssemblyInfo.cs
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.csproj.CoreCompileInputs.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/refint/example 1 hello console.dll
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.pdb
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/example 1 hello console.genruntimeconfig.cache
+/Users/lui/Documents/курс разработчик/1 четверть/С#/lection 1/example 1 hello console/obj/Debug/net6.0/ref/example 1 hello console.dll
